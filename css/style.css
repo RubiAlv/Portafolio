@@ -1,0 +1,73 @@
+ h1{
+    font-family: 'Cantarell', sans-serif;
+    text-align: center;
+}
+h2{
+    font-family: 'Cantarell', sans-serif;
+    text-align: center;
+}
+
+.imagn{
+    text-align: center;
+    margin: 20px;
+}
+
+font{
+    color: beige;
+}
+
+
+img{
+    width: 250px;
+    border-radius: 50%;
+}
+
+.tarjeta{
+    text-align: center;
+    padding: 15px;
+    background-color: #26798e;
+    font-style: oblique;
+    margin: 50px;
+}
+
+.pres{
+    display: flex;
+}
+
+.content{
+    margin: 30px;
+    text-align: center;
+    border-color: #26798e;
+    border-style:double;
+    border-radius: 10%;
+}
+
+.titPres{
+    font-family: 'Cantarell', sans-serif;
+    color: #1A5276;
+}
+
+.icon{
+    width: 100px;
+    border-color: #de7476;
+    border-radius: 0%;
+}
+
+.proyect{
+    display: flex;
+}
+
+.im_proy{
+    border-radius: 0%;
+    margin: 10px;
+    width: 350px;
+
+}
+
+.font_proy{
+    font-family: 'Cantarell', sans-serif;
+    color: #1F618D ;
+    font-style:oblique;
+    font-size: xx-large;
+}
+
