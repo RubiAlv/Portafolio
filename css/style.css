@@ -15,6 +15,7 @@ h2{
 font{
     color: beige;
     padding: 5%;
+    margin: 10px;
     text-align: center;
 }
 
@@ -27,7 +28,7 @@ img{
 .tarjeta{
     text-align: center;
     padding: 15px;
-    background-color: #26798e;
+    background-color: #800000;
     font-style: oblique;
     margin: 50px;
     box-shadow: 0px 0px 30px rgb(186, 179, 179);
@@ -37,7 +38,7 @@ img{
     box-shadow: 0px 0px 30px rgb(186, 179, 179);
     text-align: center;
     padding: 15px;
-    background-color: #7bb8ca;
+    background-color: #800000;
     font-style: oblique;
     margin: 50px;
 }
@@ -65,7 +66,7 @@ img{
 
 .titPres{
     font-family: 'Cantarell', sans-serif;
-    color: #1A5276;
+    color: #800000;
 }
 
 .icon{
@@ -127,4 +128,15 @@ img{
     border-radius: 50%;
     width: 50px;
     height: 50px;
+}
+.text_tarj{
+    text-align: center;
+    color: rgb(243, 243, 242);
+    margin: 10px;
+}
+
+.tit_proy{
+    text-align: center;
+    color: #CD5C5C;
+    font-family: 'Cantarell', sans-serif;
 }
